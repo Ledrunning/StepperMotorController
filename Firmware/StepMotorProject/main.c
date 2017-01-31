@@ -6,11 +6,10 @@
  * Author : Mazinov
  */ 
 #define F_CPU 8000000UL
-// Подключение биполярного шагового двигателя к AVR
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include <avr/interrupt.h>
-#include <stdio.h>
 #include "lcd_lib.h"
 #define SIZE 4
 #define DEBOUNCE 199

@@ -420,7 +420,7 @@ END GROUP
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
  *(.data*)
- .data.count.1877
+ .data.count.1674
                 0x00800100        0x2 main.o
  .data.speed_rpm
                 0x00800102        0x2 main.o
