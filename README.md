@@ -1,5 +1,5 @@
 # <b>StepperMotorController</b>
-## test task at Hardware developer position from Silego Technology 
+## Test task at Hardware developer position in Silego Technology 
 <ul>
   <li>Example project for unipolar stepper motor; </li>
 </ul>
