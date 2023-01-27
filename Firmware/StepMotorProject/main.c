@@ -1,7 +1,5 @@
 /*
  * StepMotorProject.c
- * Test case for HARDWARE ENGINEER position
- * in SILEGO TECHNOLOGY INC. 
  * Created: 27.01.2017 11:26:13
  * Author : Mazinov
  */ 
