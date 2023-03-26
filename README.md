@@ -19,9 +19,9 @@ because it doesn't work in Proteus simulation process;
 
 <img src="https://habrastorage.org/files/c89/926/aa3/c89926aa3ccc46148b768a0adbf8bd2c.png"/>
 
-In the "Circuit" folder you can find the DipTrace 3.0.0.1 file with the device circuit;
+The "Circuit" folder contains the DipTrace 3.0.0.1 file with the device circuit;
 
-In the "Firmware" folder you can find the Atmel Studio project with the main program;
+The "Firmware" folder contains the Atmel Studio project with the main program;
 
-In the "Modeling" folder you be able to find the Proteus simulation project which illustrates how the controller works;
+The "Modeling" folder contains the Proteus simulation project which illustrates how the controller works;
 
