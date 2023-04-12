@@ -4,7 +4,7 @@
   <li>Example project for unipolar stepper motor; </li>
 </ul>
 <ul>
-  <li>Source code written on Atmel studio in C language;</li> 
+  <li>Source code is written on Atmel studio in C language;</li> 
 </ul>
 <ul>
    <li>Used Atmega 88 microcontroller with internal RC oscillator on 8 Mhz;</li> 
@@ -15,13 +15,13 @@
 
 NOTE! I commented some lines looks like <code> // && (timer == DEBOUNCE)) </code>
 
-because it doesn't works in Proteus simulation process;
+because it doesn't work in Proteus simulation process;
 
 <img src="https://habrastorage.org/files/c89/926/aa3/c89926aa3ccc46148b768a0adbf8bd2c.png"/>
 
-In Circuit folder you can find the DipTrace 3.0.0.1 file with device circuit;
+The "Circuit" folder contains the DipTrace 3.0.0.1 file with the device circuit;
 
-In Firmware folder you can find the Atmel Studio project with main program;
+The "Firmware" folder contains the Atmel Studio project with the main program;
 
-In Modeling folder you be able to find Proteus simulation project which illustrated how controller works;
+The "Modeling" folder contains the Proteus simulation project which illustrates how the controller works;
 
