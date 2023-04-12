@@ -25,3 +25,6 @@ The "Firmware" folder contains the Atmel Studio project with the main program;
 
 The "Modeling" folder contains the Proteus simulation project which illustrates how the controller works;
 
+![Screenshot](Circuit.jpg)
+
+
